@@ -1,0 +1,9 @@
+.nav_item{
+    z-index: 1;
+}
+
+#background{
+    position: absolute;
+    bottom: 1;
+    z-index: -1;
+}
